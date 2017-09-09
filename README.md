@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/dpittner/wurstsalat.svg?branch=master)](https://travis-ci.org/dpittner/wurstsalat)
 [![codecov](https://codecov.io/gh/dpittner/wurstsalat/branch/master/graph/badge.svg)](https://codecov.io/gh/dpittner/wurstsalat)
 
-This repo contains an example setup for tracking code coverage of [Mocha](http://visionmedia.github.io/mocha) tests via [Istanbul](http://gotwarlost.github.io/istanbul/) and [Karma](http://karma-runner.github.io/).
+This repo contains an example setup for tracking code coverage of [Mocha](http://mochajs.org/) tests via [Istanbul](http://gotwarlost.github.io/istanbul/) and [Karma](http://karma-runner.github.io/).
 
 Run the following:
 
